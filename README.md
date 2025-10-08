@@ -46,9 +46,13 @@ This response is for educational purposes only and not medical advice.
 
 **Repository Structure**
 AIML_MedInstruct_Assistant/
+
 ├── README.md
+
 ├── colab_notebook.ipynb
+
 ├── requirements.txt
+
 └── sample_inference_output.txt
 
 **Requirements**
