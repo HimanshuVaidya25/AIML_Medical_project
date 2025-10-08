@@ -35,8 +35,11 @@ User Input:
 What should I do for a mild headache?
 
 Model Output:
+
 Stay in a quiet, dark place and drink enough water.
+
 Avoid screen time and rest your eyes.
+
 If the pain continues, consult a healthcare professional.
 
 This response is for educational purposes only and not medical advice.
@@ -49,12 +52,19 @@ AIML_MedInstruct_Assistant/
 └── sample_inference_output.txt
 
 **Requirements**
+
 transformers==4.41.2
+
 peft==0.10.0
+
 bitsandbytes==0.43.1
+
 accelerate==0.30.1
+
 datasets==2.20.0
+
 torch>=2.2.0
+
 tqdm
 
 
@@ -71,6 +81,9 @@ Open and run the notebook in Google Colab or Jupyter.
 **Author**
 
 Name: Himanshu Vaidya
+
 Branch: Data Science
+
 College: G. H. Raisoni College of Engineering and Management
+
 Internship: AI/ML Internship – Solar Industries India Ltd
